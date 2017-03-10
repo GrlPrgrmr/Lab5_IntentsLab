@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentsLab</string>
+    <string name="title_explicit">Explicit Activation</string>
+    <string name="title_main">Activity Loader Activity</string>
+    <string name="explicit_message">You have sent an Explicit Intent!</string>
+    <string name="make_calls_button_string">Make Calls</string>
+    <string name="choose_browser_button_string">Choose Browser</string>
+    <string name="no_text_entered">No Text Entered</string>
+    <string name="enter_string">Enter</string>
+    <string name="enter_text_here_string">Enter Text Here</string>
+    <string name="chooser_title">Open this link with</string>
+
+</resources>
